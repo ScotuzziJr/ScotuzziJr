@@ -1,6 +1,10 @@
 # <Olá, mundo!> 
 ### Eu sou o Márcio, estudante de computação e entusiasta de tecnologia.
-
+# As minhas áreas de interesse são:
+  💻 Back-end
+  👨‍💻 Programação de baixo nível
+  🪲  Web Scrapping
+  ⚙️ Automação
 <div align="center">
   <a href="https://github.com/ScotuzziJr">
 </div>
