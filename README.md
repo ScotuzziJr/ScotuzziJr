@@ -5,6 +5,7 @@
   👨‍💻 Programação de baixo nível <br>
   🪲  Web Scrapping <br>
   ⚙️ Automação <br>
+  📊 Bancos de dados <br>
 <div align="center">
   <a href="https://github.com/ScotuzziJr">
 </div>
