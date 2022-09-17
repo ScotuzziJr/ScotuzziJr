@@ -12,7 +12,7 @@
 
 ##
   
-#### Essas são as stacks que eu me sinto confortável em trabalhar
+#### Essas são as tecnologias que eu me sinto confortável em trabalhar
  <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
