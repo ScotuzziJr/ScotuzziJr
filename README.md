@@ -1,5 +1,5 @@
 # <Hello, World!> 
-### I'm Márcio, computer science student and tech enthusiast.
+### I'm Márcio, a computer science student and tech enthusiast.
 #### These are the areas I'm interested about:
   💻 Back-end <br>
   👨‍💻 Low level programming <br>
