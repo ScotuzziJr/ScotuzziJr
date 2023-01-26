@@ -1,11 +1,11 @@
-# <Olá, mundo!> 
-### Eu sou o Márcio, estudante de computação e entusiasta de tecnologia.
-#### As minhas áreas de interesse são:
+# <Hello, World!> 
+### I'm Márcio, computer science student and tech enthusiast.
+#### These are the areas I'm interested about:
   💻 Back-end <br>
-  👨‍💻 Programação de baixo nível <br>
+  👨‍💻 Low level programming <br>
   🪲  Web Scrapping <br>
-  ⚙️ Automação <br>
-  📊 Bancos de dados <br>
+  ⚙️ RPA <br>
+  📊 Databases <br>
 <div align="center">
   <a href="https://github.com/ScotuzziJr">
 </div>
