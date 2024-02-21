@@ -1,25 +1,24 @@
-# <Hello, World!> 
-### I'm Márcio, a computer science student and tech enthusiast.
-#### These are the areas I'm interested about:
+# <Olá, Mundo!> 
+### Meu nome é Márcio! Eu sou desenvolvedor backend, pythonista e entusiasta de programação baixo nível
+#### Essas são as minhas áreas de interesse:
   💻 Back-end <br>
-  👨‍💻 Low level programming <br>
-  🪲  Web Scrapping <br>
-  ⚙️ RPA <br>
-  📊 Databases <br>
+  👨‍💻 Programação baixo nível <br>
+  ⚙️ Desenvolvimento de API's <br>
+  📊 Bancos de dados <br>
 <div align="center">
   <a href="https://github.com/ScotuzziJr">
 </div>
 
 ##
   
-#### I feel comfortable working with these stacks
+#### Essas são as tecnologias que eu conheço
  <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   
